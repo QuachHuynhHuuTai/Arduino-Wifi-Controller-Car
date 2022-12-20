@@ -12,7 +12,7 @@
 #define DIRB  D4         
 
 const char* ssid = "B1807665";    //Ten wifi
-const char* pass = "xeadruino";
+const char* pass = "xeadruino";   //Pass wifi
 String b_speed, b_controller;
 int Speed;
 WiFiClient client;
